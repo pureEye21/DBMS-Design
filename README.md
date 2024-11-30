@@ -1,4 +1,4 @@
-# SQL-Like Database in C++
+# SQL-Like Database in C
 
 ## Overview
 
